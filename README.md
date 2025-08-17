@@ -1,10 +1,10 @@
 # Hola! Soy Jhon Huerta, bienvenido a mi GitHub. 🚀
 Especializado en análisis avanzado con Business Intelligence, destaco en Python, R, SQL y Cloud Computing. Apasionado por convertir datos complejos en insigts valiosos
 
-<a href="https://www.linkedin.com/in/juniororme/">
+<a href="https://www.linkedin.com/in/jhonyonyhuertajaramillo">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:ortizmejiajunior@gmail.com">
+<a href="mailto:rkojh15@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCp_P3UoHNQ72ZNkimXbvIYg">
