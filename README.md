@@ -1,17 +1,17 @@
 # Hola! Soy Jhon Huerta, bienvenido a mi GitHub. 🚀
-Especializado en análisis avanzado con Business Intelligence, destaco en Python, R, SQL y Cloud Computing. Apasionado por convertir datos complejos en insigts valiosos
+Especializado en análisis datos avanzado con Business Intelligence, destaco en Python, R, SQL y Cloud Computing. Apasionado por convertir datos complejos en insigts valiosos.
 
 <a href="https://www.linkedin.com/in/jhonyonyhuertajaramillo">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 </a>
 <a href="mailto:rkojh15@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+  
 </a>
 <a href="https://www.youtube.com/@jhonhuertajaramillo711">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/>
 </a>
 
-</br></br>
 
 
 ## Tecnologias que uso
@@ -33,7 +33,3 @@ Especializado en análisis avanzado con Business Intelligence, destaco en Python
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faztt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## Vistas 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Faztt/count.svg?"  />
-</div>
